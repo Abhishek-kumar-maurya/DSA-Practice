@@ -9,3 +9,4 @@
 ## Array
 - [Running Sum of 1d Array](running_sum_1d_array.java)
 - [Two Sum](two_sum.java)
+- [Second_highest](second_highest.java)
