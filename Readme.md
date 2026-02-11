@@ -1,0 +1,10 @@
+## DSA_Practice Questions
+
+**Simply download the file and run in your system or can copy-paste in your ide and run**
+
+**If you find any difficulty in understanding the code, please let me know in the comments**
+
+**I am learning, practicing and uploading the codes side by side so that I can review it as a quick revision**
+
+## Array
+- [Running Sum of 1d Array](running_sum_1d_array.java)
