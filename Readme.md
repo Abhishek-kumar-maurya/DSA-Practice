@@ -13,3 +13,4 @@
 - [Best_time_to_Buy_and_Sell_Stock](leetcode_121.java)
 - [Move_zeros_to_end](Move_zeros.java)
 - [Missing_number_in_Arrays](missing_num.java)
+- [Remove_duplicates](remove_duplicates.java)
