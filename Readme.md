@@ -15,3 +15,4 @@
 - [Missing_number_in_Arrays](missing_num.java)
 - [Remove_duplicates](remove_duplicates.java)
 - [container_with_most_water](container_with_most_water.java)
+- [merge_two_sorted_array](merge_two_sorted_array.java)
